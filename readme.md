@@ -3,7 +3,7 @@
 Implemented using JS, html, css.   
 
 
-**Search bar _username_ input calling  APi**  
+**Search bar _username_ input calling  Github APi**  
 
 <br>
 
