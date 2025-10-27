@@ -1,6 +1,9 @@
 # Github Profile Search
 
-## Search bar _usename_ input calling  APi   
+Implemented using JS, html, css.   
+
+
+**Search bar _username_ input calling  APi**  
 
 <br>
 
